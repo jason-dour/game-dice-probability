@@ -1,5 +1,9 @@
 Revision history for Perl extension Games::Dice::Probability.
 
+0.02  Wed Aug 03 09:55:00 2005
+	- second release.  now on cpan.
+		- added proper pre-requisite module handling to Makefile.PL
+
 0.01  Thu May 19 15:24:00 2005
 	- first limited release
 		- added all core methods

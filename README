@@ -29,7 +29,7 @@ Optionally:
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2005 by Jason A. Dour
+Copyright (C) 2005 by Jason A. Dour <jad@cpan.org>
 
 This library is free software; you can redistribute it and/or modify it under
 the same terms as Perl itself, either Perl version 5.8.6 or, at your option,

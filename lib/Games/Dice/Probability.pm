@@ -8,7 +8,7 @@ use warnings;
 #use diagnostics;
 
 # Our version number.
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 # Required Modules
 #     Math::Sumbolic::AuxFunctions is for the calcs of binomial coefficients.
